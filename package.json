@@ -1,0 +1,23 @@
+{
+  "name": "infinity-forms",
+  "version": "1.0.0",
+  "description": "Create consistent React forms using convention over configuration approach",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cyberrobot/infinity-forms"
+  },
+  "keywords": [
+    "react",
+    "forms",
+    "formik"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cyberrobot/infinity-forms/issues"
+  },
+  "homepage": "https://github.com/cyberrobot/infinity-forms#readme"
+}
